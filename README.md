@@ -35,10 +35,9 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge" />
+ 
 </p>
 
 ### 🐍 Python Data Analysis Libraries
@@ -50,15 +49,8 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
-### 🔧 Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
+---
 
 ## 🚀 Featured Projects
 
