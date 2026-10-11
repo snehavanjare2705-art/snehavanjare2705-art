@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Sneha Vanjare</h1>
-<h3>Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h3>Aspiring Data Analyst | Python | MySQL | Power BI | Excel</h3>
 
 <p>
   Turning raw data into meaningful insights through data analysis, visualization, and problem-solving.
@@ -109,7 +109,7 @@
 
 ---
 
-<p align="center">
+<p>
   ⭐ Exploring Data Analytics one project at a time.
 </p>
 
