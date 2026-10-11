@@ -29,11 +29,14 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
-###📈Database
+
+### 📈 Database
+
 <p>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+
 ### 📊 Data Analysis & Visualization
 
 <p>
