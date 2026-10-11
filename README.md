@@ -83,8 +83,8 @@
 * 🐍 Python for Data Analysis
 * 📊 Power BI: Interactive Dashboards and DAX
 * 🧹 Data Cleaning and Exploratory Data Analysis (EDA)
-* 📈 Data Visualization and Business Intelligence
-* 🗄️ Data Modeling and Database Management
+* 📈 Advanced Excel 
+
 
 ---
 
