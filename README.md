@@ -88,19 +88,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehavanjare2705-art&show_icons=true&theme=tokyonight&hide_border=true" alt="Sneha's GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehavanjare2705-art&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehavanjare2705-art&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -115,9 +103,9 @@
   </a>
 </p>
 
-📧 **Email:** Add your professional email address here.
+📧 **Email:** 
 
-💼 **LinkedIn:** Replace the LinkedIn link above with your personal profile URL when available.
+💼 **LinkedIn:** 
 
 ---
 
