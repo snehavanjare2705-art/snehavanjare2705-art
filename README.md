@@ -1,14 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Sneha Vanjare</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h1>Hi 👋, I'm Sneha Vanjare</h1>
+<h3>Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
-<p align="center">
+<p>
   Turning raw data into meaningful insights through data analysis, visualization, and problem-solving.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehavanjare2705-art&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
