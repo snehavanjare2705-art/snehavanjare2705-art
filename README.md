@@ -86,7 +86,7 @@
 * 📈 Advanced Excel 
 
 
----
+
 
 
 
@@ -103,9 +103,7 @@
   </a>
 </p>
 
-📧 **Email:** 
 
-💼 **LinkedIn:** 
 
 ---
 
