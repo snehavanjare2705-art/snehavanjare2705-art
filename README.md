@@ -59,10 +59,6 @@
 * Examined product demand and order trends to support inventory planning, sales improvement, and demand forecasting.
 * Evaluated delivery performance to identify operational patterns and potential areas for improvement.
 
-**Business Value:** Supports data-driven decisions related to sales growth, customer retention, inventory planning, and operational efficiency.
-
-**Tools:** MySQL, SQL, CTEs, Window Functions, Joins, Views, Aggregate Functions, CASE Statements.
-
 🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
 
 ### 📊 Customer Churn Analysis | Python, MySQL & Power BI
@@ -72,8 +68,6 @@
 * Identified a 35.71% observed churn rate among one-year contract customers with 13–24 months of tenure.
 * Developed customer-level insights and retention recommendations to support business decisions.
 
-**Tools:** Python, Pandas, MySQL, Power BI
-
 🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
 
 ### 🌾 Seasonal Agriculture Performance Analysis | Python
@@ -82,8 +76,6 @@
 * Explored crop yield, production, revenue, and profitability to compare performance across different regions and seasons.
 * Identified crop and seasonal yield patterns through data aggregation and exploratory analysis.
 * Created visualizations to support agricultural performance monitoring and data-driven planning.
-
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
 
@@ -113,5 +105,5 @@
 ---
 
 <p>
-  ⭐ Exploring Data Analytics one project at a time.
+  ⭐ The goal is to turn data into information, and information into insight.
 </p>
