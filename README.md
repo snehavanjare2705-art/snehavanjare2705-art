@@ -50,6 +50,13 @@
 ---
 
 ## 🚀 Featured Projects
+### 🛒 Instacart Grocery Shopping Behavior & Retail Analytics | Excel, Power Query, Power Pivot & DAX
+
+* Analyzed **33.8M+ order-product records** from the Instacart dataset to explore customer purchasing behavior, product demand, and shopping trends.
+* Developed an interactive Excel dashboard featuring **6+ KPIs**, including total orders, unique customers, average basket size, and reorder rate.
+* Used Power Query for data cleaning and transformation, Power Pivot for data modeling, and DAX to calculate metrics and analyze customer order-frequency segments.
+* Identified product demand patterns, department-wise reorder behavior, and peak ordering periods to support demand planning and customer engagement strategies.
+
 
 ### 🛒 [Blinkit Business Analysis ](https://github.com/snehavanjare2705-art/Blinkit_Analysis_Sql-) | MySQL, Advanced SQL
 
