@@ -57,7 +57,6 @@
 * Solved **20+ business questions** using CTEs, Window Functions, Joins, Views, CASE Statements, and Aggregate Functions to generate actionable business insights.
 * Performed customer segmentation and revenue analysis to identify high-value customer groups and understand purchasing patterns.
 * Examined product demand and order trends to support inventory planning, sales improvement, and demand forecasting.
-* Evaluated delivery performance to identify operational patterns and potential areas for improvement.
 
 🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
 
