@@ -58,7 +58,7 @@
 * Performed customer segmentation and revenue analysis to identify high-value customer groups and understand purchasing patterns.
 * Examined product demand and order trends to support inventory planning, sales improvement, and demand forecasting.
 
-🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
+🔗 [View Project Repository](https://github.com/snehavanjare2705-art/Blinkit_Analysis_Sql-)
 
 ### 📊 Customer Churn Analysis | Python, MySQL & Power BI
 
