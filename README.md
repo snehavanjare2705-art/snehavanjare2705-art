@@ -1,11 +1,9 @@
-
 <h1>Hi 👋, I'm Sneha Vanjare</h1>
 <h3>Aspiring Data Analyst | Python | MySQL | Power BI | Excel</h3>
 
 <p>
   Turning raw data into meaningful insights through data analysis, visualization, and problem-solving.
 </p>
-
 
 ---
 
@@ -18,6 +16,7 @@
 * 🎯 Focused on developing practical projects that support data-driven decision-making.
 
 ---
+
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming & Libraries
@@ -33,7 +32,7 @@
 ### 📈 Database
 
 <p>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
@@ -46,12 +45,25 @@
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge" />
- 
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🛒 Blinkit Business Analysis | MySQL, Advanced SQL
+
+* Analyzed **3.85M+ Blinkit transaction records** using MySQL to investigate sales trends, revenue patterns, customer purchasing behavior, and delivery performance.
+* Solved **20+ business questions** using CTEs, Window Functions, Joins, Views, CASE Statements, and Aggregate Functions to generate actionable business insights.
+* Performed customer segmentation and revenue analysis to identify high-value customer groups and understand purchasing patterns.
+* Examined product demand and order trends to support inventory planning, sales improvement, and demand forecasting.
+* Evaluated delivery performance to identify operational patterns and potential areas for improvement.
+
+**Business Value:** Supports data-driven decisions related to sales growth, customer retention, inventory planning, and operational efficiency.
+
+**Tools:** MySQL, SQL, CTEs, Window Functions, Joins, Views, Aggregate Functions, CASE Statements.
+
+🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
 
 ### 📊 Customer Churn Analysis | Python, MySQL & Power BI
 
@@ -66,10 +78,10 @@
 
 ### 🌾 Seasonal Agriculture Performance Analysis | Python
 
-* Analyzed agricultural data across crops, seasons, and states.
-* Explored crop yield, production, revenue, and profitability.
-* Compared average crop yields across seasons and evaluated state-level performance.
-* Created visualizations to identify agricultural trends and support data-driven insights.
+* Analyzed agricultural data across crops, seasons, and states to understand variations in agricultural performance.
+* Explored crop yield, production, revenue, and profitability to compare performance across different regions and seasons.
+* Identified crop and seasonal yield patterns through data aggregation and exploratory analysis.
+* Created visualizations to support agricultural performance monitoring and data-driven planning.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
@@ -83,12 +95,7 @@
 * 🐍 Python for Data Analysis
 * 📊 Power BI: Interactive Dashboards and DAX
 * 🧹 Data Cleaning and Exploratory Data Analysis (EDA)
-* 📈 Advanced Excel 
-
-
-
-
-
+* 📈 Advanced Excel
 
 ---
 
@@ -103,12 +110,8 @@
   </a>
 </p>
 
-
-
 ---
 
 <p>
   ⭐ Exploring Data Analytics one project at a time.
 </p>
-
-
