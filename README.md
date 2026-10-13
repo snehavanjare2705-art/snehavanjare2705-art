@@ -51,14 +51,13 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Blinkit Business Analysis | MySQL, Advanced SQL
+### 🛒 [Blinkit Business Analysis ](https://github.com/snehavanjare2705-art/Blinkit_Analysis_Sql-) | MySQL, Advanced SQL
 
 * Analyzed **3.85M+ Blinkit transaction records** using MySQL to investigate sales trends, revenue patterns, customer purchasing behavior, and delivery performance.
 * Solved **20+ business questions** using CTEs, Window Functions, Joins, Views, CASE Statements, and Aggregate Functions to generate actionable business insights.
 * Performed customer segmentation and revenue analysis to identify high-value customer groups and understand purchasing patterns.
 * Examined product demand and order trends to support inventory planning, sales improvement, and demand forecasting.
 
-🔗 [View Project Repository](https://github.com/snehavanjare2705-art/Blinkit_Analysis_Sql-)
 
 ### 📊 Customer Churn Analysis | Python, MySQL & Power BI
 
@@ -67,7 +66,6 @@
 * Identified a 35.71% observed churn rate among one-year contract customers with 13–24 months of tenure.
 * Developed customer-level insights and retention recommendations to support business decisions.
 
-🔗 [Blinkit Business Analysis ](https://github.com/snehavanjare2705-art)
 
 ### 🌾 Seasonal Agriculture Performance Analysis | Python
 
@@ -76,7 +74,6 @@
 * Identified crop and seasonal yield patterns through data aggregation and exploratory analysis.
 * Created visualizations to support agricultural performance monitoring and data-driven planning.
 
-🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
 
 ---
 
