@@ -50,7 +50,7 @@
 ---
 
 ## 🚀 Featured Projects
-### 🛒 Instacart Grocery Shopping Behavior & Retail Analytics | Excel, Power Query, Power Pivot & DAX
+### 🛒 [Instacart Grocery Shopping Behavior & Retail Analytics](https://github.com/snehavanjare2705-art/Instacart-Grocery-Sales-Customer-Behavior-Analysis) | Excel, Power Query, Power Pivot & DAX
 
 * Analyzed **33.8M+ order-product records** from the Instacart dataset to explore customer purchasing behavior, product demand, and shopping trends.
 * Developed an interactive Excel dashboard featuring **6+ KPIs**, including total orders, unique customers, average basket size, and reorder rate.
