@@ -67,7 +67,8 @@
 * Developed customer-level insights and retention recommendations to support business decisions.
 
 
-### 🌾 Seasonal Agriculture Performance Analysis | Python
+### 🌾[Seasonal Agriculture Performance Analysis ](https://github.com/snehavanjare2705-art/Seasonal-Agriculture-Performance)| Python
+ 
 
 * Analyzed agricultural data across crops, seasons, and states to understand variations in agricultural performance.
 * Explored crop yield, production, revenue, and profitability to compare performance across different regions and seasons.
