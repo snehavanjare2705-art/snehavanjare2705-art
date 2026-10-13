@@ -67,7 +67,7 @@
 * Identified a 35.71% observed churn rate among one-year contract customers with 13–24 months of tenure.
 * Developed customer-level insights and retention recommendations to support business decisions.
 
-🔗 [View Project Repository](https://github.com/snehavanjare2705-art)
+🔗 [Blinkit Business Analysis ](https://github.com/snehavanjare2705-art)
 
 ### 🌾 Seasonal Agriculture Performance Analysis | Python
 
